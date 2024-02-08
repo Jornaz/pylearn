@@ -12,3 +12,4 @@ for i in range(-1, -lenght -1, -1):
     new_result += result_num[i]
     #print(i)
 print(new_result)
+#print(result_num[::-1])

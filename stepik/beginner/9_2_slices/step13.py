@@ -1,0 +1,11 @@
+st = input()
+lenght = len(st)
+print(st[2:3])
+print(st[-2:-1])
+print(st[:5])
+print(st[:-2])
+print(st[::2])
+print(st[1::2])
+print(st[::-1])
+revers_st = st[::-1]
+print(revers_st[::2])
